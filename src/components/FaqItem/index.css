@@ -1,0 +1,38 @@
+.listItem {
+  list-style-type: none;
+  border: 1px solid #d7dae6;
+  border-radius: 6px;
+  margin: 12px;
+  padding: 8px;
+}
+.item {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.QuestionContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.question {
+  color: #52606d;
+  font-size: 20px;
+}
+.buttonElement {
+  background-color: transparent;
+  border: 0 none;
+  cursor: pointer;
+  outline: none;
+}
+.buttonImg {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  outline: none;
+}
+.horizontalLine {
+  border: 1px solid #e4e7eb;
+}
+.answerPara {
+  color: #9aa5b1;
+}
